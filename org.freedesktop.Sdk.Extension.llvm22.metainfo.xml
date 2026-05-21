@@ -8,8 +8,11 @@
     <metadata_license>CC0-1.0</metadata_license>
     <url type="homepage">https://github.com/flathub/org.freedesktop.Sdk.Extension.llvm22</url>
     <releases>
-        <release version="22.1.5" date="2026-05-06">
+        <release version="22.1.6" date="2026-05-20">
             <description></description>
+        </release>
+        <release version="22.1.5" date="2026-05-06">
+            <description/>
         </release>
         <release version="22.1.4" date="2026-04-21">
             <description/>
